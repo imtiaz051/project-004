@@ -1,7 +1,7 @@
 //import React from 'react';
 //import ReactDOM from 'react-dom';
 //import './index.css';
-import App from './App';
+//import App from './App';
 //import * as serviceWorker from './serviceWorker';
 
 //const myfirstelement = <h1>Helleo react</h1>
@@ -19,6 +19,7 @@ import App from './App';
 //</React.StrictMode>,
 import React from 'react';
 import ReactDOM from 'react-dom';
+import App from './App';
 import * as serviceWorker from './serviceWorker';
 
 ReactDOM.render(<div><h1>React First Element</h1><br/><p>this is my first element</p></div>, document.getElementById("root"));
