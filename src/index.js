@@ -15,7 +15,7 @@
 // Learn more about service workers: https://bit.ly/CRA-PWA
 //serviceWorker.unregister();
 //<React.StrictMode>
-<App />
+//<App />
 //</React.StrictMode>,
 import React from 'react';
 import ReactDOM from 'react-dom';
@@ -23,4 +23,5 @@ import App from './App';
 import * as serviceWorker from './serviceWorker';
 
 ReactDOM.render(<div><h1>React First Element</h1><br/><p>this is my first element</p></div>, document.getElementById("root"));
-   serviceWorker.unregister();
+<App />   
+serviceWorker.unregister();
