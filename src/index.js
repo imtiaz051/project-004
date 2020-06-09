@@ -15,7 +15,7 @@ import App from './App';
 // Learn more about service workers: https://bit.ly/CRA-PWA
 //serviceWorker.unregister();
 //<React.StrictMode>
-//<App />
+<App />
 //</React.StrictMode>,
 import React from 'react';
 import ReactDOM from 'react-dom';
