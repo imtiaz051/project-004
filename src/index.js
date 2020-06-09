@@ -2,7 +2,7 @@ import React from 'react';
 import ReactDOM from 'react-dom';
 //import './index.css';
 //import App from './App';
-//import * as serviceWorker from './serviceWorker';
+import * as serviceWorker from './serviceWorker';
 
 const myfirstelement = <h1>Helleo react</h1>
 ReactDOM.render(myfirstelement,
