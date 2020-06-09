@@ -21,6 +21,6 @@ import React from 'react';
 import ReactDOM from 'react-dom';
 import * as serviceWorker from './serviceWorker';
 
-ReactDOM.render(<div><h1>React First Element</h1></br><p>This
+ReactDOM.render(<div><h1>React First Element</h1><br><p>This
    is my first element created by me</p></div>,document.getElementById("root"));
    serviceWorker.unregister();
